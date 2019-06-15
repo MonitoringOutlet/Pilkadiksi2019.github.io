@@ -228,12 +228,12 @@ p {
 }
 
 .section-heading > h2 {
-    color: #5b32b4;
+    color: #f06392;
     margin: 0;
 }
 
 .section-heading > h3 {
-    color: #5b32b4;
+    color: #f06392;
 }
 
 .section-heading {
@@ -244,7 +244,7 @@ p {
 .line-shape {
     width: 80px;
     height: 2px;
-    background-color: #fb397d;
+    background-color: #70b2e2;
     margin-top: 15px;
 }
 
@@ -395,7 +395,7 @@ p {
 /* stcicky css */
 
 .header_area.sticky {
-    background-color: #884bdf;
+    background-color: #70b2e2;
     -webkit-box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
             box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     height: 70px;
@@ -549,7 +549,7 @@ p {
 
 .single-special > h4 {
     font-size: 22px;
-    color: #5b32b4;
+    color: #f06392;
 }
 
 .single-icon {
@@ -558,7 +558,7 @@ p {
 
 .single-special > h4 {
     font-size: 22px;
-    color: #5b32b4;
+    color: #f06392;
     margin-bottom: 15px;
 }
 
@@ -1229,13 +1229,13 @@ p {
 -------------------------- */
 
 .footer-text > h2 {
-    color: #5b32b4;
+    color: #f06392;
     font-size: 72px;
     font-weight: 700;
 }
 
 .footer-social-icon > a > i {
-    background: #9b69e4;
+    background: #f06392;
     font-size: 14px;
     color: #ffffff;
     height: 40px;
