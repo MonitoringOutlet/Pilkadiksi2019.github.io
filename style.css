@@ -786,6 +786,11 @@ p {
     line-height: 1;
 }
 
+.counter-area > h4{
+    color: #70B2E2;
+    font-size: 30px;
+}
+
 .cool-facts-content > p {
     font-size: 18px;
     /* color: #ffffff; */
